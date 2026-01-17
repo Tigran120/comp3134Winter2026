@@ -1,0 +1,27 @@
+1.What is a server port?
+A server port is a logical endpoint in an operating system that identifies a specific process or service assigned to handle incoming network traffic.
+2.What is the server port range (e.g., 0 to 65535)?
+The valid range for server ports is from 0 to 65,535.
+3. How many bits does that number represent?
+This number represents a 16-bit unsigned integer.
+(Calculation: $2^{16} = 65,536$, allowing for values from 0 to 65,535).
+4.List 10 common server ports
+20/21: FTP (File Transfer Protocol)
+
+22: SSH (Secure Shell) - Crucial for your VPS management
+
+23: Telnet (Unencrypted text communications)
+
+25: SMTP (Simple Mail Transfer Protocol)
+
+53: DNS (Domain Name System)
+
+80: HTTP (Hypertext Transfer Protocol)
+
+110: POP3 (Post Office Protocol version 3)
+
+143: IMAP (Internet Message Access Protocol)
+
+443: HTTPS (Hypertext Transfer Protocol Secure)
+
+3306: MySQL (Database server default port)
