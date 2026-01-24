@@ -1,0 +1,5 @@
+cnn.com
+reddit.com
+stackoverflow.com
+yahoo.com
+zoom.us

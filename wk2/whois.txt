@@ -1,0 +1,5 @@
+apple.com
+netflix.com
+openai.com
+wikipedia.org
+oracle.com

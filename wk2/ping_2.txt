@@ -1,0 +1,12 @@
+ ping 142.93.157.228
+
+Pinging 142.93.157.228 with 32 bytes of data:
+Reply from 142.93.157.228: bytes=32 time=12ms TTL=53
+Reply from 142.93.157.228: bytes=32 time=13ms TTL=53
+Reply from 142.93.157.228: bytes=32 time=5ms TTL=53
+Reply from 142.93.157.228: bytes=32 time=12ms TTL=53
+
+Ping statistics for 142.93.157.228:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 13ms, Average = 10ms

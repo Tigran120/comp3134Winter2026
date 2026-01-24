@@ -1,0 +1,4 @@
+PING google.com (192.178.192.113) 56(84) bytes of data. 64 bytes from 
+lcyyzn-in-f113.1e100.net (192.178.192.113): icmp_seq=1 ttl=113 time=2.44 
+ms 64 bytes from lcyyzn-in-f113.1e100.net (192.178.192.113): icmp_seq=2 
+ttl=113 time=1.70 ms
