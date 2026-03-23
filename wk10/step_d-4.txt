@@ -1,0 +1,3 @@
+The page allows directory traversal by using ../../ in the query string.
+This lets the user move outside the intended html directory and list folders above the web root.
+Sensitive information includes server directory names and internal file system structure.

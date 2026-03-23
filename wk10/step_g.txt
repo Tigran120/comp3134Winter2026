@@ -1,0 +1,3 @@
+I will mitigate the problem by removing HTML comments that are visible in browser page source.
+I will replace them with PHP comments, because PHP comments are processed on the server and are not shown to the browser.
+This prevents sensitive developer information from being exposed to users.

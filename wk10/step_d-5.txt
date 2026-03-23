@@ -1,0 +1,3 @@
+The page also allows encoded directory traversal using %2e%2e%2f.
+This means the application does not sanitize encoded path input.
+Sensitive information includes folder names and internal server structure outside the intended directory.

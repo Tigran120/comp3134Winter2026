@@ -1,0 +1,8 @@
+# TCP packets from random source IPs
+hping3 -S --rand-source -p 80 TARGET_IP
+
+# UDP packets for 90 seconds from a spoofed source IP
+hping3 --udp -a 1.2.3.4 -p 53 TARGET_IP -i u1000000 --count 90
+
+# ICMP packets with 1KB payload at 75 packets/sec
+hping3 --icmp -d 1000 -i u13333 TARGET_IP

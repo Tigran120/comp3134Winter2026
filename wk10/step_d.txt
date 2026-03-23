@@ -1,0 +1,4 @@
+This page tries to scan the folder name provided in the query string without validation.
+When q=hello, the browser shows an error because the folder does not exist.
+This reveals internal error details and shows that the application trusts user input directly.
+Sensitive information includes server path behavior, PHP warning messages, and application structure.

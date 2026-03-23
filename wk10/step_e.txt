@@ -1,0 +1,3 @@
+I will mitigate the first problem by using basename() so the user cannot move above the html directory using path traversal such as ../../.
+I will mitigate the second problem by using file_exists() and is_dir() so the script only scans valid directories.
+As a bonus, I block filenames by checking for a dot in the parameter.
